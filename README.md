@@ -1,10 +1,6 @@
-# %MODULE-NAME%
+# Accessibility and Usability
 
-This repository contains resources (including exemplars, instructions, and starter code) for the **%MODULE-NAME%** module.
-
-## Set-up
-
-Begin by **forking** this repository and **cloning** it onto your machine.
+This repository contains resources (including exemplars, instructions, and starter code) for the **Accessibility and Usability** module.
 
 ## Resources
 
@@ -14,4 +10,4 @@ To access a resource, switch to the relevant branch and read [`instructions.md`]
 
 | Resource | Branch |
 | --- | --- |
-| resource_name | `branch_name` |
+| Accessible and responsive website brief | `build-website` |
