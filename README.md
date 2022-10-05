@@ -11,6 +11,6 @@ To access a resource, switch to the relevant branch and read [`instructions.md`]
 | Resource | Branch |
 | --- | --- |
 | Build an accessible and responsive website | `build-website` |
-| Making accessibility recommendations | `recommendations` |
-| Fixing an inaccessible website | `accessibility-fix` |
+| Making accessibility recommendations | `make-recommendations` |
+| Fixing an inaccessible website | `fix-accessibility` |
 | Code in the Dark | `code-in-the-dark` |
