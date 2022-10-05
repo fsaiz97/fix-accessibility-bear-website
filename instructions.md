@@ -16,10 +16,12 @@ For this task, you will work individually.
 
 ## Brief
 
-You will make accessibility fixes to an existing website.
+You are a front end developer tasked with the job of fixing the accessibility of an existing website. You can find the code for the website inside the [fix-this-website](./fix-this-website) folder of this bracnch.
+
+Copy the inaccessible website code to a new repo. From there you can make your fixes.
 
 ## Output
-By the end of this project, you will have created a github repo showing the website before your fixes and after. 
+By the end of this project, you will have created a github repo showing the website before and after your fixes. 
 
 Your github repo should be shared in slack.
 
