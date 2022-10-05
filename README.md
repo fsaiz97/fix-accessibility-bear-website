@@ -10,4 +10,7 @@ To access a resource, switch to the relevant branch and read [`instructions.md`]
 
 | Resource | Branch |
 | --- | --- |
-| Accessible and responsive website brief | `build-website` |
+| Build an accessible and responsive website | `build-website` |
+| Making accessibility recommendations | `recommendations` |
+| Fixing an inaccessible website | `accessibility-fix` |
+| Code in the Dark | `code-in-the-dark` |
