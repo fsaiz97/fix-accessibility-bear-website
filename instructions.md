@@ -16,7 +16,7 @@ For this task, you will work individually.
 
 ## Brief
 
-You are a front end developer tasked with the job of fixing the accessibility of an existing website. You can find the code for the website inside the [fix-this-website](./fix-this-website) folder of this bracnch.
+You are a front end developer tasked with the job of fixing the accessibility of an existing website. You can find the code for the website inside the [fix-this-website](./fix-this-website) folder of this branch.
 
 Copy the inaccessible website code to a new repo. From there you can make your fixes.
 
